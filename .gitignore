@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+virtualenv/
+venv/
+env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package manager files
+pip-log.txt
+
+# Testing artifacts
+.pytest_cache/
+
+# Application logs
+*.log
+
+# Specific to FastAPI/Uvicorn development
+.uvicorn/
+
+# Temporary files used by development tools or scripts
+.tmp-*
