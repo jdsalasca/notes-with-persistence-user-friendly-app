@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-02-08T18:47:21.975Z",
+  "passed": false,
+  "score": 84,
+  "threshold": 85,
+  "summary": "failed: score 84/85 (high=0, medium=2)",
+  "findings": [
+    {
+      "reviewer": "program_manager",
+      "severity": "medium",
+      "message": "Architecture and execution/runbook docs are required for production readiness."
+    },
+    {
+      "reviewer": "program_manager",
+      "severity": "medium",
+      "message": "Project should include a LICENSE file for delivery readiness."
+    }
+  ],
+  "diagnostics": [
+    "[DigitalReviewer:program_manager][medium] Architecture and execution/runbook docs are required for production readiness.",
+    "[DigitalReviewer:program_manager][medium] Project should include a LICENSE file for delivery readiness."
+  ]
+}
